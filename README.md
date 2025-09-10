@@ -1,4 +1,4 @@
-<!-- Perfil de GitHub – by TU_USUARIO -->
+<!-- Perfil de GitHub – by DPBascur -->
 <h1 align="center">Full-stack - UI/UX & DEV</h1>
 
 <!-- Banner GIF centrado -->
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=DPBascur&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPBascur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
 </div>
 
@@ -36,18 +36,31 @@
 
 ### 🧠 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPBascur&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 ---
 
 ### 🗓️ Actividad reciente
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPBascur&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<!-- Tarjetas extra (opcional) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DPBascur&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DPBascur&theme=tokyonight&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DPBascur&theme=tokyonight" />
 </p>
 
 ---
 
+### ⌚ (Opcional) Mi última semana con WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&label=visitas" alt="views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=DPBascur&style=flat-square&label=visitas" alt="views counter"/>
 </p>
