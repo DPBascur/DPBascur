@@ -52,7 +52,13 @@
 </p>
 
 ---
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DPBascur&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)
+  
+</div>
 
+---
 <div align="center">
 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=DPBascur&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
