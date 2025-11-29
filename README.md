@@ -63,8 +63,6 @@
 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=DPBascur&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DPBascur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
 </div>
 
 ---
