@@ -52,11 +52,6 @@
 </p>
 
 ---
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DPBascur&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)
-  
-</div>
 
 ---
 <div align="center">
